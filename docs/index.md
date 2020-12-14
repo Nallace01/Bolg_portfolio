@@ -5,4 +5,4 @@
 ### About Me 
 I am a student in Interactive Media Design.
 
-![Yi-De, Kuo](images/linked.jpg)
+![Yi-De, Kuo](images/linkedin.jpg)
