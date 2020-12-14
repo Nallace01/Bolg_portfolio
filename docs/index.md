@@ -6,3 +6,6 @@
 I am a student in Interactive Media Design.
 
 ![Yi-De, Kuo](images/linkedin.jpg)
+
+### Get in Touch
+Email: [yide.kuo@dcmail.ca](yide.kuo@dcmail.ca)
